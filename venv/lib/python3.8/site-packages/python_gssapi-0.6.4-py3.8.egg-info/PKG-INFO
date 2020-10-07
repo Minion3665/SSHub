@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: python-gssapi
+Version: 0.6.4
+Summary: An object-oriented interface to GSSAPI for Python
+Home-page: https://github.com/sigmaris/python-gssapi
+Author: Hugh Cole-Baker and contributors
+Author-email: hugh@sigmaris.info
+License: The MIT License (MIT)
+Description: UNKNOWN
+Keywords: gssapi kerberos
+Platform: UNKNOWN
